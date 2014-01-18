@@ -1,6 +1,6 @@
 {
   "name": "geofancy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A oAuth v2 API module for use with https://my.geofancy.com",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,6 @@
   },
   "dependencies": {
     "request": "~2.33.0"
-  }
+  },
+  "readmeFilename": "README.md"
 }

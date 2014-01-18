@@ -2,6 +2,8 @@
 
 *The official Geofancy node.js NPM module*
 
+Have a look at the [geofancy-node-sample](https://github.com/Geofancy/geofancy-node-sample) if you want a quick demo.
+
 Install using NPM like so:
 
 ```

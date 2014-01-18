@@ -1,0 +1,31 @@
+{
+  "name": "geofancy",
+  "version": "0.0.1",
+  "description": "A oAuth v2 API module for use with https://my.geofancy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Geofancy/geofancy-js.git"
+  },
+  "keywords": [
+    "geofancy",
+    "geofencing",
+    "ibeacon"
+  ],
+  "author": "Marcus Kida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Geofancy/geofancy-js/issues"
+  },
+  "homepage": "https://github.com/Geofancy/geofancy-js",
+  "devDependencies": {
+    "mocha": "~1.0",
+    "chai": "~0.5"
+  },
+  "dependencies": {
+    "request": "~2.33.0"
+  }
+}

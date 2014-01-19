@@ -1,5 +1,7 @@
 # GeofancyJS
 
+![Travis-CI Badge](https://travis-ci.org/Geofancy/geofancy-js.png)
+
 *The official Geofancy node.js NPM module*
 
 Have a look at the [geofancy-node-sample](https://github.com/Geofancy/geofancy-node-sample) if you want a quick demo.

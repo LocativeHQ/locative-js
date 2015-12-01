@@ -1,16 +1,17 @@
 {
-  "name": "geofancy",
+  "name": "locative",
   "version": "0.0.4",
-  "description": "A oAuth v2 API module for use with https://my.geofancy.com",
+  "description": "A oAuth v2 API module for use with https://my.locative.io",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Geofancy/geofancy-js.git"
+    "url": "https://github.com/LocativeHQ/locative-js.git"
   },
   "keywords": [
+    "locative",
     "geofancy",
     "geofencing",
     "ibeacon"
@@ -18,9 +19,9 @@
   "author": "Marcus Kida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Geofancy/geofancy-js/issues"
+    "url": "https://github.com/LocativeHQ/locative-js/issues"
   },
-  "homepage": "https://github.com/Geofancy/geofancy-js",
+  "homepage": "https://github.com/LocativeHQ/locative-js",
   "devDependencies": {
     "mocha": "~1.0",
     "chai": "~0.5"
